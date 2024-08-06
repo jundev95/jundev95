@@ -61,6 +61,11 @@
 </div>
 
 
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95" alt="Top Langs" style="margin-right: 20px;">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jundev95&amp;theme=github_dark&amp;show_icons=true" alt="Anurag's GitHub stats">
+</div>
 
 
