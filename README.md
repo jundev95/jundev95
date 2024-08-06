@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=300&section=header&text=Welcome&fontSize=90" />
 
-<p>계정 이전 중입니다...</p>
-<p>Account transfer in progress...</p>
+<h3>계정 이전 중입니다...</h3>
+<h3>Account transfer in progress...</h3>
 
 
 ## Language
