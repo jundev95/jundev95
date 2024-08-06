@@ -63,9 +63,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95" alt="Top Langs" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95" alt="Top Langs">
   </a>
+  &nbsp;&nbsp; <!-- 여기에 간격을 추가합니다 -->
   <img src="https://github-readme-stats.vercel.app/api?username=jundev95&amp;theme=github_dark&amp;show_icons=true" alt="Anurag's GitHub stats">
 </div>
+
 
 
