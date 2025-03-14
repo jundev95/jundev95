@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp; 
 <h3>My Persnal WebSite & MY Practice Project</h3>
-https://jmtotalhub.kro.kr/
+https://jmtotalhub.com/
 
 ---
 
