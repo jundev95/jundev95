@@ -64,12 +64,12 @@ https://jmtotalhub.com/
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95&layout=compact&theme=github_dark" height="180" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundev95&layout=compact&theme=github_dark&v=1" height="180" alt="Top Langs"/>
   </a>
   
   &nbsp;&nbsp;
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jundev95&theme=github_dark&show_icons=true" height="180" alt="Jundev95's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jundev95&theme=github_dark&show_icons=true&v=1" height="180" alt="Jundev95's GitHub stats"/>
   </a>
 </div>
